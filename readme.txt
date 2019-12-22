@@ -8,7 +8,7 @@ Modifications:
 
 2.	Game rules (or modification of existing rules): 
     a.	Will change worm/snake movement speed to make it slower;
-    b.	When snake hits left and right edges of window, it will come from the opposite side of the window, but rule will not apply for upper or lower part of the window;
+    b.	When snake hits left and right edges of window, it will come from the opposite side of the window, but rule will not            apply for upper or lower part of the window;
     c.	There will be at most 2-3 food objects in the window per game session;
     d.	Obstructions will be placed in sections of the window
     e.	Different variations of food will be added;
